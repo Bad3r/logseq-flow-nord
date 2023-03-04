@@ -1,0 +1,18 @@
+{
+    "name": "Noctis 1",
+    "url": "./noctis1.css",
+    "description": "Light Default with Improvements",
+    "mode": "light"
+},
+{
+    "name": "Noctis 2",
+    "url": "./noctis2.css",
+    "description": "Light Default with Improvements",
+    "mode": "light"
+},
+{
+    "name": "Obsidian",
+    "url": "./obsidian.css",
+    "description": "Obsidian",
+    "mode": "light"
+},

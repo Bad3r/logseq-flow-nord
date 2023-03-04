@@ -1,0 +1,599 @@
+{
+    "name": "Flow",
+    "author": "nmartin84",
+    "version": "0.1.2",
+    "description": "A minimal theme that comes with 30+ color schemes.",
+    "logseq": {
+        "themes": [
+            {
+                "name": "Absent",
+                "url": "./src/palettes/absent.css",
+                "description": "Absent",
+                "mode": "dark"
+            },
+            {
+                "name": "Absent",
+                "url": "./src/palettes/absent.css",
+                "description": "Absent",
+                "mode": "light"
+            },
+            {
+                "name": "Adventure Time",
+                "url": "./src/palettes/adventuretime.css",
+                "description": "Adventure Time",
+                "mode": "dark"
+            },
+            {
+                "name": "Adobe",
+                "url": "./src/palettes/adobe.css",
+                "description": "Adobe",
+                "mode": "light"
+            },
+            {
+                "name": "Adobe",
+                "url": "./src/palettes/adobe.css",
+                "description": "Adobe",
+                "mode": "dark"
+            },
+            {
+                "name": "Anderson",
+                "url": "./src/palettes/anderson.css",
+                "description": "Anderson",
+                "mode": "dark"
+            },
+            {
+                "name": "Andromeda",
+                "url": "./src/palettes/andromeda.css",
+                "description": "Andromeda",
+                "mode": "dark"
+            },
+            {
+                "name": "Ark",
+                "url": "./src/palettes/ark.css",
+                "description": "Ark",
+                "mode": "dark"
+            },
+            {
+                "name": "Ayu",
+                "url": "./src/palettes/ayu.css",
+                "description": "Ayu",
+                "mode": "light"
+            },
+            {
+                "name": "Ayu",
+                "url": "./src/palettes/ayu.css",
+                "description": "Ayu",
+                "mode": "dark"
+            },
+            {
+                "name": "Bear",
+                "url": "./src/palettes/bear.css",
+                "description": "Bear",
+                "mode": "dark"
+            },
+            {
+                "name": "Bear",
+                "url": "./src/palettes/bear.css",
+                "description": "Bear",
+                "mode": "light"
+            },
+            {
+                "name": "Bearded Coffee",
+                "url": "./src/palettes/bearded-coffee.css",
+                "description": "Bearded Coffee",
+                "mode": "dark"
+            },
+            {
+                "name": "Bearded Coffee",
+                "url": "./src/palettes/bearded-coffee.css",
+                "description": "Bearded Coffee",
+                "mode": "light"
+            },
+            {
+                "name": "Bearded Earth",
+                "url": "./src/palettes/bearded-earth.css",
+                "description": "Bearded Earth",
+                "mode": "dark"
+            },
+            {
+                "name": "Bearded Earth",
+                "url": "./src/palettes/bearded-earth.css",
+                "description": "Bearded Earth",
+                "mode": "light"
+            },
+            {
+                "name": "Bearded Solarized",
+                "url": "./src/palettes/bearded-solarized.css",
+                "description": "Bearded Solarized",
+                "mode": "dark"
+            },
+            {
+                "name": "Bearded Solarized",
+                "url": "./src/palettes/bearded-solarized.css",
+                "description": "Bearded Solarized",
+                "mode": "light"
+            },
+            {
+                "name": "Belafonte",
+                "url": "./src/palettes/belafonte.css",
+                "description": "Belafonte",
+                "mode": "light"
+            },
+            {
+                "name": "Belafonte",
+                "url": "./src/palettes/belafonte.css",
+                "description": "Belafonte",
+                "mode": "dark"
+            },
+            {
+                "name": "Bespin",
+                "url": "./src/palettes/bespin.css",
+                "description": "Bespin",
+                "mode": "dark"
+            },
+            {
+                "name": "Breeze",
+                "url": "./src/palettes/breeze.css",
+                "description": "Breeze",
+                "mode": "dark"
+            },
+            {
+                "name": "Flatwhite",
+                "url": "./src/palettes/flatwhite.css",
+                "description": "Flatwhite Colors",
+                "mode": "light"
+            },
+            {
+                "name": "Catppuccin Latte",
+                "url": "./src/palettes/catppuccin-latte.css",
+                "description": "Catppuccin Latte",
+                "mode": "light"
+            },
+            {
+                "name": "Catppuccin Frappe",
+                "url": "./src/palettes/catppuccin-frappe.css",
+                "description": "Catppuccin Frappe",
+                "mode": "dark"
+            },
+            {
+                "name": "Catppuccin Macchiato",
+                "url": "./src/palettes/catppuccin-macchiato.css",
+                "description": "Catppuccin Macchiato",
+                "mode": "dark"
+            },
+            {
+                "name": "Catppuccin Mocha",
+                "url": "./src/palettes/catppuccin-mocha.css",
+                "description": "Catppuccin Mocha",
+                "mode": "dark"
+            },
+            {
+                "name": "Calamity",
+                "url": "./src/palettes/calamity.css",
+                "description": "Calamity",
+                "mode": "dark"
+            },
+            {
+                "name": "Chocolate",
+                "url": "./src/palettes/chocolate.css",
+                "description": "Vanilla Chocolate",
+                "mode": "light"
+            },
+            {
+                "name": "Chocolate",
+                "url": "./src/palettes/chocolate.css",
+                "description": "Dark Chocolate",
+                "mode": "dark"
+            },
+            {
+                "name": "Cobalt",
+                "url": "./src/palettes/cobalt.css",
+                "description": "Cobalt",
+                "mode": "dark"
+            },
+            {
+                "name": "Daycula",
+                "url": "./src/palettes/daycula.css",
+                "description": "Daycula",
+                "mode": "dark"
+            },
+            {
+                "name": "Default",
+                "url": "./src/palettes/default.css",
+                "description": "Light Default with Improvements",
+                "mode": "light"
+            },
+            {
+                "name": "Default",
+                "url": "./src/palettes/default.css",
+                "description": "Dark Default with Improvements",
+                "mode": "dark"
+            },
+            {
+                "name": "Dracula",
+                "url": "./src/palettes/dracula.css",
+                "description": "Dracula",
+                "mode": "dark"
+            },
+            {
+                "name": "Electric",
+                "url": "./src/palettes/electric.css",
+                "description": "Electric",
+                "mode": "dark"
+            },
+            {
+                "name": "Ephemeral",
+                "url": "./src/palettes/ephemeral.css",
+                "description": "Ephemeral",
+                "mode": "dark"
+            },
+            {
+                "name": "Everforest",
+                "url": "./src/palettes/everforest.css",
+                "description": "Everforest",
+                "mode": "dark"
+            },
+            {
+                "name": "Everforest",
+                "url": "./src/palettes/everforest.css",
+                "description": "Everforest",
+                "mode": "light"
+            },
+            {
+                "name": "FlatUI",
+                "url": "./src/palettes/flatui.css",
+                "description": "FlatUI",
+                "mode": "light"
+            },
+            {
+                "name": "FlatUI",
+                "url": "./src/palettes/flatui.css",
+                "description": "FlatUI",
+                "mode": "dark"
+            },
+            {
+                "name": "Github",
+                "url": "./src/palettes/github.css",
+                "description": "Github Light",
+                "mode": "light"
+            },
+            {
+                "name": "Github",
+                "url": "./src/palettes/github.css",
+                "description": "Github Dark",
+                "mode": "dark"
+            },
+            {
+                "name": "Gruvbox",
+                "url": "./src/palettes/gruvbox.css",
+                "description": "Gruvbox",
+                "mode": "light"
+            },
+            {
+                "name": "Gruvbox",
+                "url": "./src/palettes/gruvbox.css",
+                "description": "Gruvbox",
+                "mode": "dark"
+            },
+            {
+                "name": "Hatsunemiku",
+                "url": "./src/palettes/hatsunemiku.css",
+                "description": "Hatsunemiku",
+                "mode": "dark"
+            },
+            {
+                "name": "Hatsunemiku",
+                "url": "./src/palettes/hatsunemiku.css",
+                "description": "Hatsunemiku",
+                "mode": "light"
+            },
+            {
+                "name": "Humanoid",
+                "url": "./src/palettes/humanoid.css",
+                "description": "Humanoid",
+                "mode": "dark"
+            },
+            {
+                "name": "Humanoid",
+                "url": "./src/palettes/humanoid.css",
+                "description": "Humanoid",
+                "mode": "light"
+            },
+            {
+                "name": "Kanagawa",
+                "url": "./src/palettes/kanagawa.css",
+                "description": "Kanagawa",
+                "mode": "dark"
+            },
+            {
+                "name": "Kanagawa",
+                "url": "./src/palettes/kanagawa.css",
+                "description": "Kanagawa",
+                "mode": "light"
+            },
+            {
+                "name": "Material",
+                "url": "./src/palettes/material.css",
+                "description": "material",
+                "mode": "dark"
+            },
+            {
+                "name": "Material",
+                "url": "./src/palettes/material.css",
+                "description": "material",
+                "mode": "light"
+            },
+            {
+                "name": "Melange",
+                "url": "./src/palettes/melange.css",
+                "description": "Melange",
+                "mode": "dark"
+            },
+            {
+                "name": "Melange",
+                "url": "./src/palettes/melange.css",
+                "description": "Melange",
+                "mode": "light"
+            },
+            {
+                "name": "Miramare",
+                "url": "./src/palettes/miramare.css",
+                "description": "Miramare",
+                "mode": "dark"
+            },
+            {
+                "name": "Momo",
+                "url": "./src/palettes/momo.css",
+                "description": "Momo",
+                "mode": "dark"
+            },
+            {
+                "name": "Momo",
+                "url": "./src/palettes/momo.css",
+                "description": "Momo",
+                "mode": "light"
+            },
+            {
+                "name": "Monokai Pro",
+                "url": "./src/palettes/monokai-pro.css",
+                "description": "Monokai Pro",
+                "mode": "dark"
+            },
+            {
+                "name": "Moonlight",
+                "url": "./src/palettes/moonlight.css",
+                "description": "Moonlight",
+                "mode": "dark"
+            },
+            {
+                "name": "Nebula",
+                "url": "./src/palettes/nebula.css",
+                "description": "Nebula",
+                "mode": "dark"
+            },
+            {
+                "name": "Newsprint",
+                "url": "./src/palettes/newsprint.css",
+                "description": "Newsprint",
+                "mode": "dark"
+            },
+            {
+                "name": "Newsprint",
+                "url": "./src/palettes/newsprint.css",
+                "description": "Newsprint",
+                "mode": "light"
+            },
+            {
+                "name": "Ngvuq",
+                "url": "./src/palettes/ngvuq.css",
+                "description": "Ngvuq",
+                "mode": "dark"
+            },
+            {
+                "name": "Noctis 2",
+                "url": "./src/palettes/noctis2.css",
+                "description": "Dark Default with Improvements",
+                "mode": "dark"
+            },
+            {
+                "name": "Nord",
+                "url": "./src/palettes/nord.css",
+                "description": "Nord",
+                "mode": "light"
+            },
+            {
+                "name": "Nord",
+                "url": "./src/palettes/nord.css",
+                "description": "Nord",
+                "mode": "dark"
+            },
+            {
+                "name": "Obsidian",
+                "url": "./src/palettes/obsidian.css",
+                "description": "Obsidian",
+                "mode": "light"
+            },
+            {
+                "name": "Obsidian",
+                "url": "./src/palettes/obsidian.css",
+                "description": "Obsidian",
+                "mode": "dark"
+            },
+            {
+                "name": "Oceanic Material",
+                "url": "./src/palettes/oceanic-material.css",
+                "description": "Oceanic Material",
+                "mode": "dark"
+            },
+            {
+                "name": "Oceanic Material",
+                "url": "./src/palettes/oceanic-material.css",
+                "description": "Oceanic Material",
+                "mode": "light"
+            },
+            {
+                "name": "Oceanic Next",
+                "url": "./src/palettes/oceanic.css",
+                "description": "Oceanic Dark",
+                "mode": "dark"
+            },
+            {
+                "name": "Old Hope",
+                "url": "./src/palettes/oldhope.css",
+                "description": "Old Hope",
+                "mode": "dark"
+            },
+            {
+                "name": "One Dark Pro",
+                "url": "./src/palettes/one-dark-pro.css",
+                "description": "One Dark Pro",
+                "mode": "dark"
+            },
+            {
+                "name": "One Light Pro",
+                "url": "./src/palettes/one-dark-pro.css",
+                "description": "One Light Pro",
+                "mode": "light"
+            },
+            {
+                "name": "Paper",
+                "url": "./src/palettes/paper.css",
+                "description": "Paper",
+                "mode": "light"
+            },
+            {
+                "name": "Primary",
+                "url": "./src/palettes/primary.css",
+                "description": "Primary",
+                "mode": "dark"
+            },
+            {
+                "name": "Primary",
+                "url": "./src/palettes/primary.css",
+                "description": "Primary",
+                "mode": "light"
+            },
+            {
+                "name": "Panda",
+                "url": "./src/palettes/panda.css",
+                "description": "Panda",
+                "mode": "dark"
+            },
+            {
+                "name": "Rogue",
+                "url": "./src/palettes/rogue.css",
+                "description": "Rogue",
+                "mode": "dark"
+            },
+            {
+                "name": "Rose",
+                "url": "./src/palettes/rose.css",
+                "description": "Rose",
+                "mode": "dark"
+            },
+            {
+                "name": "Rose",
+                "url": "./src/palettes/rose.css",
+                "description": "Rose",
+                "mode": "light"
+            },
+            {
+                "name": "Soft Era",
+                "url": "./src/palettes/soft-era.css",
+                "description": "Soft Era",
+                "mode": "light"
+            },
+            {
+                "name": "Snazzy",
+                "url": "./src/palettes/snazzy.css",
+                "description": "Snazzy",
+                "mode": "dark"
+            },
+            {
+                "name": "Snazzy",
+                "url": "./src/palettes/snazzy.css",
+                "description": "Snazzy",
+                "mode": "light"
+            },
+            {
+                "name": "Solarized",
+                "url": "./src/palettes/solarized.css",
+                "description": "Light Default with Improvements",
+                "mode": "light"
+            },
+            {
+                "name": "Solarized",
+                "url": "./src/palettes/solarized.css",
+                "description": "Dark Default with Improvements",
+                "mode": "dark"
+            },
+            {
+                "name": "Spacegray",
+                "url": "./src/palettes/spacegray.css",
+                "description": "Spacegray",
+                "mode": "light"
+            },
+            {
+                "name": "Spacegray",
+                "url": "./src/palettes/spacegray.css",
+                "description": "Spacegray",
+                "mode": "dark"
+            },
+            {
+                "name": "Synthwave 84",
+                "url": "./src/palettes/synthwave84.css",
+                "description": "Synthwave 84",
+                "mode": "dark"
+            },
+            {
+                "name": "Teady",
+                "url": "./src/palettes/teady.css",
+                "description": "Teady",
+                "mode": "dark"
+            },
+            {
+                "name": "Tokyo",
+                "url": "./src/palettes/tokyo.css",
+                "description": "Tokyo",
+                "mode": "dark"
+            },
+            {
+                "name": "Tokyo",
+                "url": "./src/palettes/tokyo.css",
+                "description": "Tokyo",
+                "mode": "light"
+            },
+            {
+                "name": "Tomorrow",
+                "url": "./src/palettes/tomorrow.css",
+                "description": "Tomorrow",
+                "mode": "light"
+            },
+            {
+                "name": "Watermelon",
+                "url": "./src/palettes/watermelon.css",
+                "description": "Watermelon",
+                "mode": "light"
+            },
+            {
+                "name": "Watermelon",
+                "url": "./src/palettes/watermelon.css",
+                "description": "Watermelon",
+                "mode": "dark"
+            },
+            {
+                "name": "Zengarden",
+                "url": "./src/palettes/zengarden.css",
+                "description": "Zengarden",
+                "mode": "dark"
+            },
+            {
+                "name": "Zengarden",
+                "url": "./src/palettes/zengarden.css",
+                "description": "Zengarden",
+                "mode": "light"
+            }
+        ],
+        "id": "flowtheme-781"
+    }
+}
