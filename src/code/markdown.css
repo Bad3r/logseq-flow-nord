@@ -598,7 +598,6 @@ a.tag {
     text-align: center;
     display: inline-block;
     border-radius: var(--cl-tag-border, 2px);
-    font-size: small;
     border: 0px solid;
     border-color: hsl(var(--cl-accent), 0.15);
     transition: 0.2s;
@@ -766,7 +765,7 @@ h1.title {
     }
     
     .flex.flex-col.wrap.gap-1.relative {
-        opacity: 0.75;
+        opacity: 1;
     }
 
     /* Favorites & Recent Bar */
